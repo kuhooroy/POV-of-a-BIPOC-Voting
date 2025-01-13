@@ -1,3 +1,5 @@
+# Created by Sreejita R., Sophia E., and Nafisa M.
+
 import time
 from replit import clear
 
